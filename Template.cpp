@@ -74,3 +74,24 @@ ll modInverse(ll A, ll M)
 }
 
 
+/*
+
+#include<bits/stdc++.h> 
+using namespace std;
+#define ll long long
+
+
+#define pb push_back
+#define f first
+#define s second
+#define mp make_pair
+
+typedef vector < ll > vi;
+typedef vector<vi> vvi;
+
+
+
+
+
+
+*/
